@@ -1,9 +1,19 @@
-# README for presentation
+# Presentation guidelines
+5 minutes long
+a subject of your choice
 
-some random text
+## content
+start with an angle or question
+introduction - set out objectives
+background
+outline and agenda
+lead in (3?)
+key takeaway
+conclusion and summary - mirror intro
+question?
 
-## this is head 2 with 2 hashes
-
-more text wow
-
-### header 3 with 3 hashes
+### header WHAT DO TO
+decide subject
+research
+plan
+rehearse
