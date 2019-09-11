@@ -1,4 +1,4 @@
-# Presentation guidelines
+# **Presentation guidelines**
 5 minutes long
 
 a subject of your choice
@@ -20,7 +20,7 @@ a subject of your choice
 
 - question?
 
-### WHAT DO TO
+### **_WHAT DO TO_**
 - decide subject
 
 - research
