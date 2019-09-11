@@ -1,5 +1,6 @@
 # Presentation guidelines
 5 minutes long
+
 a subject of your choice
 
 ## content
@@ -13,17 +14,17 @@ a subject of your choice
 
 - lead in (3?)
 
-key takeaway
+- key takeaway
 
-conclusion and summary - mirror intro
+- conclusion and summary - mirror intro
 
-question?
+-question?
 
 ### WHAT DO TO
-decide subject
+- decide subject
 
-research
+- research
 
-plan
+- plan
 
-rehearse
+- rehearse
