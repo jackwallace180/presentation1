@@ -18,7 +18,7 @@ a subject of your choice
 
 - conclusion and summary - mirror intro
 
--question?
+- question?
 
 ### WHAT DO TO
 - decide subject
