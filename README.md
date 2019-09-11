@@ -3,15 +3,15 @@
 a subject of your choice
 
 ## content
- start with an angle or question
+- start with an angle or question
 
-introduction - set out objectives
+- introduction - set out objectives
 
-background
+- background
 
-outline and agenda
+- outline and agenda
 
-lead in (3?)
+- lead in (3?)
 
 key takeaway
 
@@ -21,6 +21,9 @@ question?
 
 ### WHAT DO TO
 decide subject
+
 research
+
 plan
+
 rehearse
