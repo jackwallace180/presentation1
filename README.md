@@ -12,7 +12,7 @@ key takeaway
 conclusion and summary - mirror intro
 question?
 
-### header WHAT DO TO
+### WHAT DO TO
 decide subject
 research
 plan
